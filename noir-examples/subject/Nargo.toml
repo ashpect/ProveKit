@@ -1,0 +1,7 @@
+[package]
+name = "subject"
+type = "bin"
+authors = [""]
+
+[dependencies]
+sort = { tag = "v0.2.3", git = "https://github.com/noir-lang/noir_sort" }
